@@ -1,4 +1,5 @@
 # MSPNP_Options_Breakout_Board
+A PCB to breakout the Options 26 D sub connector for testing and prototyping.
 
 ![connector](https://github.com/ThePandoConnection/MSPNP_Options_Breakout_Board/blob/main/connectors13.jpg?raw=true)
 
