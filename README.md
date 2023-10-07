@@ -2,30 +2,30 @@
 
 ![connector](https://github.com/ThePandoConnection/MSPNP_Options_Breakout_Board/blob/main/connectors13.jpg?raw=true)
 
-pin out table:
-Cam sensor input
-Table switch input
-Clutch Switch
-Tach output
-Chassis Ground
-Switched 12VDC (0.5A Max)
-Boost control solenoid
-Injector A output
-Injector B output
-Knock sensor input
-CANBus high
-CANBus low
-Launch control input
-Spark D output
-Spark C output
-Spark B output
-Spark A output
-Injector C output
-External MAP sensor input
-IAT sensor input
-Oxygen sensor input
-Signal Ground
-5VDC Vref
-Output 1 relay control (ALED)
-Output 2 relay control (WLED)
-Injector D Output
+## Pin Out Table:
+1. Cam sensor input
+2. Table switch input
+3. Clutch Switch
+4. Tach output
+5. Chassis Ground
+6. Switched 12VDC (0.5A Max)
+7. Boost control solenoid
+8. Injector A output
+9. Injector B output
+10. Knock sensor input
+11. CANBus high
+12. CANBus low
+13. Launch control input
+14. Spark D output
+15. Spark C output
+16. Spark B output
+17. Spark A output
+18. Injector C output
+19. External MAP sensor input
+20. IAT sensor input
+21. Oxygen sensor input
+22. Signal Ground
+23. 5VDC Vref
+24. Output 1 relay control (ALED)
+25. Output 2 relay control (WLED)
+26. Injector D Output
