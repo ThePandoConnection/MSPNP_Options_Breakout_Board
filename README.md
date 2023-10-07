@@ -1,6 +1,6 @@
 # MSPNP_Options_Breakout_Board
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ThePandoConnection/MSPNP_Options_Breakout_Board/blob/main/connectors13.jpg?raw=true)
 
 pin out table:
 Cam sensor input
